@@ -1,1 +1,2 @@
-console.log("helle")
+console.log("helle");
+console.log("happy");
